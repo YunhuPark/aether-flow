@@ -395,7 +395,6 @@
     pointer-events: none;
     z-index: 9999;
     transform: translate(-50%, -50%);
-    transition: left 0.08s ease-out, top 0.08s ease-out;
 }
 
 /* ===== Flash Enter ===== */
